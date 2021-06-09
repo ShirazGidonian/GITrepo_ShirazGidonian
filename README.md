@@ -1,2 +1,2 @@
-# GitProject_ShirazGidonian 
+# GITrepo_ShirazGidonian 
 Git-excersize
